@@ -48,6 +48,7 @@ It supports various LLM runners, including Ollama and OpenAI-compatible APIs.
 ```bash
 git clone https://github.com/unixfool/Desarrollar-IA-Starter-Kit.git
 cd Desarrollar-IA-Starter-Kit
+mv env.example .env
 ```
 
 ### Running n8n using Docker Compose
@@ -57,6 +58,7 @@ cd Desarrollar-IA-Starter-Kit
 ```
 git clone https://github.com/unixfool/Desarrollar-IA-Starter-Kit.git
 cd Desarrollar-IA-Starter-Kit
+mv env.example .env
 docker compose --profile gpu-nvidia up
 ```
 
@@ -81,6 +83,7 @@ for installation instructions, and run the starter kit as follows:
 ```
 git clone https://github.com/unixfool/Desarrollar-IA-Starter-Kit.git
 cd Desarrollar-IA-Starter-Kit
+mv env.example .env
 docker compose up
 ```
 
@@ -92,6 +95,7 @@ by using `http://host.docker.internal:11434/` as the host.
 ```
 git clone https://github.com/unixfool/Desarrollar-IA-Starter-Kit.git
 cd Desarrollar-IA-Starter-Kit
+mv env.example .env
 docker compose --profile cpu up
 ```
 
