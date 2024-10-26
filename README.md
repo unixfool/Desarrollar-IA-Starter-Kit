@@ -28,7 +28,7 @@ Engineering world, handles large amounts of data safely.
 ✅ [**Flowise AI**](https://flowiseai.com/) -  Build LLM Apps Easily
 Open source low-code tool for developers to build customized LLM orchestration flow & AI agents.
 
-✅ [**Flowise AI**](https://openwebui.com/) -  Open WebUI is an extensible, feature-rich, and user-friendly self-hosted WebUI designed to operate entirely offline. 
+✅ [**Open WebUI**](https://openwebui.com/) -  Open WebUI is an extensible, feature-rich, and user-friendly self-hosted WebUI designed to operate entirely offline. 
 It supports various LLM runners, including Ollama and OpenAI-compatible APIs.
 
 ### What you can build
